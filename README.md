@@ -143,8 +143,11 @@ plt.grid(True)
 plt.show()
 ```
 # Output Waveform
-
+#PSK
 ![WhatsApp Image 2025-10-07 at 13 58 25_10dbad9b](https://github.com/user-attachments/assets/b882a85c-7d57-47e9-9e70-3ba939f9c940)
+
+
+#QPSK
 ![WhatsApp Image 2025-10-07 at 13 58 25_66de77e2](https://github.com/user-attachments/assets/3e841291-f504-42c7-969d-bb875023b575)
 
 
